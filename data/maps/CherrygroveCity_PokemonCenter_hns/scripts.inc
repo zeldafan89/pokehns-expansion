@@ -11,6 +11,7 @@ CherryGrove_Pokecenter_EventScript_Fisher::
 	faceplayer
 	msgbox CherryGrove_Pokecenter_Text_Fisher, MSGBOX_DEFAULT
 	closemessage
+clearflag FLAG_UNUSED_0x022
 	release
 	end
 
