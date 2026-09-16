@@ -27,6 +27,7 @@ CherryGrove_Pokecenter_EventScript_Lass::
 	faceplayer
 	msgbox CherryGrove_Pokecenter_Text_Lass, MSGBOX_DEFAULT
 	closemessage
+setflag FLAG_UNUSED_0x022
 	release
 	end
 
