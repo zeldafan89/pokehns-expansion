@@ -69,7 +69,7 @@
 // Flag settings
 // To use the following features in scripting, replace the 0s with the flag ID you're assigning it to.
 // Eg: Replace with FLAG_UNUSED_0x264 so you can use that flag to toggle the feature.
-#define P_FLAG_FORCE_SHINY               You FLAG_EXTENDED_CONTENT_SET_103  // If this flag is set, all wild and gift Pokémon will forced into being Shiny.
+#define P_FLAG_FORCE_SHINY               FLAG_EXTENDED_CONTENT_SET_103  // If this flag is set, all wild and gift Pokémon will forced into being Shiny.
 #define P_FLAG_FORCE_NO_SHINY            0  // If this flag is set, all wild and gift Pokémon will forced into NOT being Shiny.
 
 // Go here if you want to disable specific families of Pokémon.
