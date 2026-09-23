@@ -1,3 +1,5 @@
+[Download for Moemon Heart and Soul](https://www.dropbox.com/scl/fi/4pwajh8yy7mew5dgaghyo/moehns.bps?rlkey=tspdjzajimbupvqkbr4e8sgxl&st=km4sea1i&e=1&dl=0)
+
 ![HnS Logo](HnS_Logo.png)
 
 # About `pokemonHnS-expansion`
@@ -39,6 +41,8 @@ pokemonHnS-expansion 2.0 is Based off RHH's pokeemerald-expansion version 1.15.1
 ```
 
 Finally, please consider [crediting all contributors](CREDITS.md) involved in the project!
+
+Credits also to Moemon Project: https://docs.google.com/spreadsheets/d/1LNnneTnFlEZ4J5yKzmRZLw7rSAhg4qN7/edit?usp=sharing&ouid=114554177789150399911&rtpof=true&sd=true
 
 # **`pokemonHnS-expansion`** multiplayer compatibility
 
