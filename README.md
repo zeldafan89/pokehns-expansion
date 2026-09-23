@@ -15,7 +15,7 @@ Finally, all of these projects are built on top of [pret's **`pokeemerald`**](ht
 
 Unfortunately, saves from before 2.0 will not be compatible moving forward.
 
-2.0.1 will be the last "official" release of Pokémon Heart and Soul, after which any bug fixes, content updates, or any propogated updates from **`pokeemerald`** or **`pokeemerald-expansion`** will only be available via community forks of the project.
+2.0.6 will be the last "official" release of Pokémon Heart and Soul, after which any bug fixes, content updates, or any propogated updates from **`pokeemerald`** or **`pokeemerald-expansion`** will only be available via community forks of the project.
 
 # [Features](FEATURES.md)
 
@@ -39,6 +39,8 @@ pokemonHnS-expansion 2.0 is Based off RHH's pokeemerald-expansion version 1.15.1
 ```
 
 Finally, please consider [crediting all contributors](CREDITS.md) involved in the project!
+
+Credits also to knabepicer for the Moemon implementation in HnS 2.0.6, as well as the Moemon Project: https://docs.google.com/spreadsheets/d/1LNnneTnFlEZ4J5yKzmRZLw7rSAhg4qN7/edit?usp=sharing&ouid=114554177789150399911&rtpof=true&sd=true
 
 # **`pokemonHnS-expansion`** multiplayer compatibility
 
